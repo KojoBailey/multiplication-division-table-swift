@@ -11,6 +11,7 @@ This is my first app created with Swift and my first time using Xcode, and key t
 - How to set up constraints on views to support both vertical and horizontal orientations on phones of different sizes.
 - How to link storyboard views with Swift scripts in order to create a program that responds to user input.
 - How to derive from the `UITableView...` classes in order to implement methods like `numberOfSections(in UITableView)`.
+- How to create native iOS alerts.
 - Generally, how to program in Swift and makes use of its powerful features like built-in optional/result type syntax, pattern matching, and class `extension` blocks.
 
 I also had to re-learn how to use macOS, considering my daily driver is Arch Linux Hyprland and I haven't used a Mac in years...
